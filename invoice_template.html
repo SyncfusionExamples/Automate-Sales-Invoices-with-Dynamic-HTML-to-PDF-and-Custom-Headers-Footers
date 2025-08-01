@@ -1,0 +1,57 @@
+<!DOCTYPE html>
+<html>
+    <head>
+        <meta charset="UTF-8">
+        <title>Invoice Generation.</title>
+    </head>
+    <body>
+        <div class="section">
+            <table id="invoiceTable">
+                <thead>
+                    <tr>
+                        <th>Purchased Item</th>
+                        <th>No of License</th>
+                        <th>License Price Per Unit</th>
+                        <th>Total</th>
+                    </tr>
+                </thead>
+                <tbody>
+                    {{PurchasedItems}}
+                </tbody>
+            </table>
+            <div class="totals">
+                <p><strong>Subtotal:</strong> $ {{Subtotal}}</p>
+                <p><strong>Sales Tax (8.5%):</strong> $ {{SalesTax}}</p>
+                <p><strong>Total Amount Due:</strong> $ {{TotalAmountDue}}</p>
+            </div>
+            <p style="text-align: left;"><strong> Bank Details:</strong> <br> Bank Name : ACAC Bank <br> Account Number : 123-456-7890 </p>
+        </div>
+    </body>
+    <style>
+        body {
+            font-family: Helvetica;
+            margin: 40px;
+            font-size: 14px;
+        }
+
+        .section {
+            margin-top: 200px;
+        }
+
+        table {
+            width: 100%;
+            border-collapse: collapse;
+            margin-top: 15px;
+        }
+
+        th, td {
+            border: 1px solid #ccc;
+            padding: 10px;
+            text-align: left;
+        }
+
+        .totals {
+            text-align: right;
+        }
+    </style>
+</html>

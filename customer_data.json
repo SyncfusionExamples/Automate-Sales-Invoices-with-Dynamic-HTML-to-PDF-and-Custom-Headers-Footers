@@ -1,0 +1,112 @@
+[
+  {
+    "InvoiceDate": "2025-07-01",
+    "DueDate":  "2025-08-01",
+    "InvoiceNumber": "INV001",
+    "CustomerName": "ABC Corp",
+    "CustomerAddress": "1375 E Buena Vista Drive, Lake Buena Vista, United States",
+    "CustomerEmail": "abccorp@gmail.com",
+    "CustomerPhone": "+1 9130819935",
+    "SellerCompanyName": "Syncfusion Pvt Ltd",
+    "SellerAddress": "Company Headquarters, 2501 Aerial Center Parkway, Suite 111, Morrisville, NC 27560, USA",
+    "SellerPhoneNumber": "+1 919.481.1974",
+    "SellerEmail": "support@syncfusion.com",
+    "SellerWebsite": "www.syncfusion.com",
+    "InvoiceTitle": "Tax Invoice",
+    "SalesTaxNumber": "29ABCDE1234F2Z5",
+    "PaymentInstructions": "Bank: ABC Bank, A/C: 1234567890, IFSC: ABCD0123456",
+    "TermsAndConditions": "Late payment may incur additional charges. This invoice includes all services and products provided as per our agreement. Please review all the items carefully.",
+    "PurchaseItems": [
+      {
+        "ItemName": "EJ2 Products",
+        "NoOfLicensePurchased": 10,
+        "PerLicensePrice": 395
+      },
+      {
+        "ItemName": "BoldBI",
+        "NoOfLicensePurchased": 5,
+        "PerLicensePrice": 495
+      },
+      {
+        "ItemName": "BoldSign",
+        "NoOfLicensePurchased": 25,
+        "PerLicensePrice": 15
+      },
+      {
+        "ItemName": "Bold Reports",
+        "NoOfLicensePurchased": 23,
+        "PerLicensePrice": 495
+      }
+    ]
+  },
+  {
+    "InvoiceDate": "2025-07-02",
+    "DueDate": "2025-08-02",
+    "InvoiceNumber": "INV002",
+    "CustomerName": "XYZ Ltd",
+    "CustomerAddress": "350 5th Avenue, Denver, CO 80219, US.",
+    "CustomerEmail": "xyz@gmail.com",
+    "CustomerPhone": "9876541230",
+    "SellerCompanyName": "Syncfusion Pvt Ltd",
+    "SellerAddress": "EYMARD Complex, AJ 217, 4th Avenue, Shanthi Colony, Anna Nagar, Chennai-40, India",
+    "SellerPhoneNumber": "+91 44 26210413",
+    "SellerEmail": "support@syncfusion.com",
+    "SellerWebsite": "www.syncfusion.com",
+    "InvoiceTitle": "Tax Invoice",
+    "SalesTaxNumber": "29ABCDE1234F2Z5",
+    "PaymentInstructions": "Bank: ABC Bank, A/C: 1234567890, IFSC: ABCD0123456",
+    "TermsAndConditions": "Late payment may incur additional charges. This invoice includes all services and products provided as per our agreement. Please review all the items carefully.",
+    "PurchaseItems": [
+      {
+        "ItemName": "BoldBI",
+        "NoOfLicensePurchased": 15,
+        "PerLicensePrice": 495
+      },
+      {
+        "ItemName": "BoldSign",
+        "NoOfLicensePurchased": 45,
+        "PerLicensePrice": 15
+      },
+      {
+        "ItemName": "Bold Reports",
+        "NoOfLicensePurchased": 13,
+        "PerLicensePrice": 495
+      }
+    ]
+  },
+  {
+    "InvoiceDate": "2025-07-03",
+    "DueDate": "2025-08-03",
+    "InvoiceNumber": "INV003",
+    "CustomerName": "MNO Pvt Ltd",
+    "CustomerAddress": "1600 Pennsylvania Avenue NW, Washington, DC, USA",
+    "CustomerEmail": "mno@gmail.com",
+    "CustomerPhone": "+1 9164812948",
+    "SellerCompanyName": "Syncfusion Pvt Ltd",
+    "SellerAddress": "Company Headquarters, 2501 Aerial Center Parkway, Suite 111, Morrisville, NC 27560, USA",
+    "SellerPhoneNumber": "+1 919.481.1974",
+    "SellerEmail": "support@syncfusion.com",
+    "SellerWebsite": "www.syncfusion.com",
+    "InvoiceTitle": "Tax Invoice",
+    "SalesTaxNumber": "29ABCDE1234F2Z5",
+    "PaymentInstructions": "Bank: ABC Bank, A/C: 1234567890, IFSC: ABCD0123456",
+    "TermsAndConditions": "Late payment may incur additional charges. This invoice includes all services and products provided as per our agreement. Please review all the items carefully.",
+    "PurchaseItems": [
+      {
+        "ItemName": "EJ2 Products",
+        "NoOfLicensePurchased": 50,
+        "PerLicensePrice": 395
+      },
+      {
+        "ItemName": "BoldSign",
+        "NoOfLicensePurchased": 12,
+        "PerLicensePrice": 15
+      },
+      {
+        "ItemName": "Bold Reports",
+        "NoOfLicensePurchased": 5,
+        "PerLicensePrice": 495
+      }
+    ]
+  }
+]
