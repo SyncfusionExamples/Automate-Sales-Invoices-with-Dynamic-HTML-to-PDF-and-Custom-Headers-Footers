@@ -1,2 +1,2 @@
-# -Automate-Sales-Invoices-with-Dynamic-HTML-to-PDF-and-Custom-Headers-Footers.
+# Automate-Sales-Invoices-with-Dynamic-HTML-to-PDF-and-Custom-Headers-Footers
 This repository provides a working example of how to automate sales invoice generation by converting dynamic HTML templates into PDF documents with custom headers and footers. Built using .NET (C#), this solution is ideal for developers looking to streamline invoice workflows and integrate PDF generation into business applications.
